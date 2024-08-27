@@ -49,10 +49,10 @@ Tuesday  |  Thursday
   <a href="mailto:ricapearl.alamo@wvsu.edu.ph">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100071372389155">
+  <a href="https://www.facebook.com/profile.php?id=100071372389155&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/rica.alamo/">
+  <a href="https://www.instagram.com/kirsch_tariaaa?igsh=MXhlcHRyOGdwazQzeA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
