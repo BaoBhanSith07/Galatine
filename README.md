@@ -36,7 +36,9 @@ Tuesday  |  Thursday
 
 - **☁️ Cloud Computing:** Using cloud platforms for scalable and cost-effective business applications.
 - **🌐 Web and Mobile App Development:** Creating user-friendly web and mobile applications tailored to business needs.
-- **🥷 Watching Anime:**
+- **🥷 Watching Anime**
+- **📖 Reading Mangas**
+- **🎮 Playing Games**
 
 ## 🎯 My Goals
 
