@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="https://drive.google.com/uc?export=view&id=1iS-9e9Y0ZxWqVrwJaCsOI9Y277ZMeq6D" alt="Rica's Photo" style="width: 250px; border-radius: 50%;">
+      <img src="[https://drive.google.com/uc?export=view&id=1iS-9e9Y0ZxWqVrwJaCsOI9Y277ZMeq6D](https://drive.google.com/file/d/1kX7trBWCgQCEVxpEYgPOgIoYO5aaVdVJ/view?usp=sharing)" alt="Rica's Photo" style="width: 250px; border-radius: 50%;">
     </td>
     <td>
       <h1>👩‍💻 ABOUT ME</h1>
