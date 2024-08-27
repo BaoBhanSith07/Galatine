@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="(https://drive.google.com/file/d/1kX7trBWCgQCEVxpEYgPOgIoYO5aaVdVJ/view?usp=drive_link)" alt="Owie's Photo" style="width: 250px; border-radius: 50%;">
+      <img src="https://drive.google.com/file/d/1kX7trBWCgQCEVxpEYgPOgIoYO5aaVdVJ/view?usp=drive_link" alt="Owie's Photo" style="width: 250px; border-radius: 50%;">
     </td>
     <td>
       <h1>👩‍💻 ABOUT ME</h1>
