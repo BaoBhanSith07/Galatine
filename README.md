@@ -49,7 +49,7 @@ Tuesday  |  Thursday
   <a href="mailto:ricapearl.alamo@wvsu.edu.ph">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/owiebexlerr.muyco/">
+  <a href="(https://www.facebook.com/profile.php?id=100071372389155)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/rica.alamo/">
