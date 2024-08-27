@@ -6,7 +6,7 @@
       <img src="https://drive.google.com/file/d/1kX7trBWCgQCEVxpEYgPOgIoYO5aaVdVJ/view?usp=drive_link" alt="Owie's Photo" style="width: 250px; border-radius: 50%;">
     </td>
     <td>
-      <h1>👩‍💻 ABOUT ME</h1>
+      <h1> ABOUT ME!</h1>
       <p>
         <strong>Name:</strong> Owie Bexlerr Muyco <br>
         <strong>Course & Section:</strong> Bachelor of Science in Information Systems A <br>
